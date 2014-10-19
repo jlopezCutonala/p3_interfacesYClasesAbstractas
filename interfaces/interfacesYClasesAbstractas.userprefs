@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Circulo.cs" ctype="Workbench">
+    <Files>
+      <File FileName="Principal.cs" Line="36" Column="4" />
+      <File FileName="FiguraGeometrica.cs" Line="6" Column="39" />
+      <File FileName="Circulo.cs" Line="1" Column="1" />
+      <File FileName="Cuadrado.cs" Line="18" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches ctype="PinnedWatchStore" />
+</Properties>
